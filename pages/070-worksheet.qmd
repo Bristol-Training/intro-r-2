@@ -2,7 +2,7 @@
 title: Worksheet
 ---
 
-We saw in [Beginning R](https://bristol-training.github.io/beginning-r/pages/060-data.html) how to load a dataset with `read.csv`. This was a study about [gene expression data of 42 ER- and ER+ breast cancer patients](https://ftp.ncbi.nlm.nih.gov/geo/datasets/GDS3nnn/GDS3716/soft/GDS3716.soft.gz). The code was like:
+We saw in [Intro to R part 1](https://bristol-training.github.io/intro-r-1/pages/060-data.html) how to load a dataset with `read.csv`. This was a study about [gene expression data of 42 ER- and ER+ breast cancer patients](https://ftp.ncbi.nlm.nih.gov/geo/datasets/GDS3nnn/GDS3716/soft/GDS3716.soft.gz). The code was like:
 
 ```r
 breast <- read.csv("https://raw.githubusercontent.com/Bristol-Training/beginning-r/refs/heads/main/data/GDS3716.soft",
