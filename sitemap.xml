@@ -1,71 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://Bristol-Training.github.io/intermediate-r/pages/020-packages.html</loc>
-    <lastmod>2024-10-22T21:49:31.030Z</lastmod>
+    <loc>https://Bristol-Training.github.io/intro-r-2/pages/020-packages.html</loc>
+    <lastmod>2025-10-29T13:39:47.526Z</lastmod>
   </url>
   <url>
-    <loc>https://Bristol-Training.github.io/intermediate-r/pages/022-loading-packages.html</loc>
-    <lastmod>2024-10-23T00:27:18.942Z</lastmod>
+    <loc>https://Bristol-Training.github.io/intro-r-2/pages/022-loading-packages.html</loc>
+    <lastmod>2025-10-29T13:39:47.527Z</lastmod>
   </url>
   <url>
-    <loc>https://Bristol-Training.github.io/intermediate-r/pages/033-error-functions.html</loc>
-    <lastmod>2024-10-23T00:59:23.823Z</lastmod>
+    <loc>https://Bristol-Training.github.io/intro-r-2/pages/033-error-functions.html</loc>
+    <lastmod>2025-10-29T13:39:47.527Z</lastmod>
   </url>
   <url>
-    <loc>https://Bristol-Training.github.io/intermediate-r/pages/070-worksheet.html</loc>
-    <lastmod>2024-10-24T16:17:04.244Z</lastmod>
+    <loc>https://Bristol-Training.github.io/intro-r-2/pages/070-worksheet.html</loc>
+    <lastmod>2025-10-29T13:39:47.528Z</lastmod>
   </url>
   <url>
-    <loc>https://Bristol-Training.github.io/intermediate-r/pages/990-contributors.html</loc>
-    <lastmod>2024-10-22T21:49:31.034Z</lastmod>
+    <loc>https://Bristol-Training.github.io/intro-r-2/pages/990-contributors.html</loc>
+    <lastmod>2025-10-29T13:39:47.529Z</lastmod>
   </url>
   <url>
-    <loc>https://Bristol-Training.github.io/intermediate-r/pages/032-writing-functions.html</loc>
-    <lastmod>2024-10-25T00:32:02.426Z</lastmod>
+    <loc>https://Bristol-Training.github.io/intro-r-2/pages/032-writing-functions.html</loc>
+    <lastmod>2025-10-29T13:39:47.527Z</lastmod>
   </url>
   <url>
-    <loc>https://Bristol-Training.github.io/intermediate-r/pages/030-functions.html</loc>
-    <lastmod>2024-10-23T00:18:01.892Z</lastmod>
+    <loc>https://Bristol-Training.github.io/intro-r-2/pages/030-functions.html</loc>
+    <lastmod>2025-10-29T13:39:47.527Z</lastmod>
   </url>
   <url>
-    <loc>https://Bristol-Training.github.io/intermediate-r/answers/answer_morse_case.html</loc>
-    <lastmod>2024-10-22T21:49:31.029Z</lastmod>
+    <loc>https://Bristol-Training.github.io/intro-r-2/answers/answer_morse_case.html</loc>
+    <lastmod>2025-10-29T13:39:47.520Z</lastmod>
   </url>
   <url>
-    <loc>https://Bristol-Training.github.io/intermediate-r/answers/answer_string_methods.html</loc>
-    <lastmod>2024-10-22T21:49:31.029Z</lastmod>
+    <loc>https://Bristol-Training.github.io/intro-r-2/answers/answer_string_methods.html</loc>
+    <lastmod>2025-10-29T13:39:47.520Z</lastmod>
   </url>
   <url>
-    <loc>https://Bristol-Training.github.io/intermediate-r/answers/answer_hello_name.html</loc>
-    <lastmod>2024-10-22T21:49:31.029Z</lastmod>
+    <loc>https://Bristol-Training.github.io/intro-r-2/answers/answer_hello_name.html</loc>
+    <lastmod>2025-10-29T13:39:47.519Z</lastmod>
   </url>
   <url>
-    <loc>https://Bristol-Training.github.io/intermediate-r/index.html</loc>
-    <lastmod>2024-10-23T08:35:11.776Z</lastmod>
+    <loc>https://Bristol-Training.github.io/intro-r-2/index.html</loc>
+    <lastmod>2025-10-29T13:40:18.970Z</lastmod>
   </url>
   <url>
-    <loc>https://Bristol-Training.github.io/intermediate-r/pages/980-summary.html</loc>
-    <lastmod>2024-10-23T00:59:08.747Z</lastmod>
+    <loc>https://Bristol-Training.github.io/intro-r-2/pages/980-summary.html</loc>
+    <lastmod>2025-10-29T13:39:47.529Z</lastmod>
   </url>
   <url>
-    <loc>https://Bristol-Training.github.io/intermediate-r/pages/042-tidyverse-pipe.html</loc>
-    <lastmod>2024-10-22T23:17:42.657Z</lastmod>
+    <loc>https://Bristol-Training.github.io/intro-r-2/pages/042-tidyverse-pipe.html</loc>
+    <lastmod>2025-10-29T13:39:47.528Z</lastmod>
   </url>
   <url>
-    <loc>https://Bristol-Training.github.io/intermediate-r/pages/041-tidyverse-tibbles.html</loc>
-    <lastmod>2024-10-22T22:56:30.534Z</lastmod>
+    <loc>https://Bristol-Training.github.io/intro-r-2/pages/041-tidyverse-tibbles.html</loc>
+    <lastmod>2025-10-29T13:39:47.528Z</lastmod>
   </url>
   <url>
-    <loc>https://Bristol-Training.github.io/intermediate-r/pages/010-workspace-setup.html</loc>
-    <lastmod>2024-10-22T21:49:31.030Z</lastmod>
+    <loc>https://Bristol-Training.github.io/intro-r-2/pages/010-workspace-setup.html</loc>
+    <lastmod>2025-10-29T13:39:47.526Z</lastmod>
   </url>
   <url>
-    <loc>https://Bristol-Training.github.io/intermediate-r/pages/040-tidyverse.html</loc>
-    <lastmod>2024-10-22T21:49:31.032Z</lastmod>
+    <loc>https://Bristol-Training.github.io/intro-r-2/pages/040-tidyverse.html</loc>
+    <lastmod>2025-10-29T13:39:47.528Z</lastmod>
   </url>
   <url>
-    <loc>https://Bristol-Training.github.io/intermediate-r/pages/021-install-packages.html</loc>
-    <lastmod>2024-10-22T21:49:31.031Z</lastmod>
+    <loc>https://Bristol-Training.github.io/intro-r-2/pages/021-install-packages.html</loc>
+    <lastmod>2025-10-29T13:39:47.527Z</lastmod>
   </url>
 </urlset>
